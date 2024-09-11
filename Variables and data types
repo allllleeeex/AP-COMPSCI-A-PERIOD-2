@@ -1,13 +1,12 @@
-public class 1.2
+public class Variables
 {
-  public static void main(String[] arg)
+  public static void main(String[] args)
   {
   double r = 6;
   int e = 7;
-  boolean c = true;
-  e = e - 4
-  String.out.println (e + MATH.PI);
-  String.put.print (c + r);
+  boolean c = false;
+  e = e - 4;
+  System.out.println (c);
+  System.out.print (r + e);
   }
 }
-
