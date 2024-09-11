@@ -1,0 +1,13 @@
+public class 1.2
+{
+  public static void main(String[] arg)
+  {
+  double r = 6;
+  int e = 7;
+  boolean c = true;
+  e = e - 4
+  String.out.println (e + MATH.PI);
+  String.put.print (c + r);
+  }
+}
+
